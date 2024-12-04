@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: servicio-vuelos
   h2:
     console:
       enabled: true
