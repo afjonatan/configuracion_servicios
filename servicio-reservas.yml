@@ -1,7 +1,5 @@
 # Nombre identificador del servicio
 spring:
-  application:
-    name: servicio-reservas
   h2:
     console:
       enabled: true
